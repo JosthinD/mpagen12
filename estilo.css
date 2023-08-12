@@ -1,0 +1,24 @@
+body {
+    background-color: #333; /* Fondo gris oscuro */
+    color: rgb(0, 0, 0); /* Color de texto blanco */
+    font-family: Arial, sans-serif;
+    text-align: center; /* Todos los elementos centrados */
+}
+
+.container {
+    background-color: white; /* Fondo blanco para el contenedor */
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    background-color: white; /* Fondo blanco para el título */
+    padding: 10px;
+    margin: 10px;
+}
+
+p {
+    background-color: white; /* Fondo blanco para el párrafo */
+    padding: 10px;
+    margin: 10px;
+}
